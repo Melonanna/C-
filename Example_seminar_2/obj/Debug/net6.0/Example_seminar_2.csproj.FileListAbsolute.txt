@@ -1,0 +1,15 @@
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/Example_seminar_2.csproj.AssemblyReference.cache
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/Example_seminar_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/Example_seminar_2.AssemblyInfoInputs.cache
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/Example_seminar_2.AssemblyInfo.cs
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/Example_seminar_2.csproj.CoreCompileInputs.cache
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/bin/Debug/net6.0/Example_seminar_2
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/bin/Debug/net6.0/Example_seminar_2.deps.json
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/bin/Debug/net6.0/Example_seminar_2.runtimeconfig.json
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/bin/Debug/net6.0/Example_seminar_2.dll
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/bin/Debug/net6.0/Example_seminar_2.pdb
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/Example_seminar_2.dll
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/refint/Example_seminar_2.dll
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/Example_seminar_2.pdb
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/Example_seminar_2.genruntimeconfig.cache
+/Users/annasmirnova/Desktop/Examples/Example_seminar_2/obj/Debug/net6.0/ref/Example_seminar_2.dll
