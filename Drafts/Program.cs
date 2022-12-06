@@ -1,5 +1,5 @@
 ﻿
-int N;
+/*int N;
 Console.Write($"Введите число: ");
 
 int.TryParse(Console.ReadLine()!, out N);
@@ -13,4 +13,29 @@ if (N%2==0)
 else
 {
   Console.Write($"Нет");
-}
+}*/
+
+/*Трехзначные числа,программа показывает последнюю цифру этого числа*/
+
+int a;
+int b;
+int c;
+
+Console.WriteLine($"Введите число 1:");
+int.TryParse(Console.ReadLine()!, out a);
+
+Console.WriteLine($"Введите число 2:");
+int.TryParse(Console.ReadLine()!, out b);
+
+Console.WriteLine($"Введите число 3:");
+int.TryParse(Console.ReadLine()!, out c);
+
+int max=a;
+
+if (b>max) {max = b;}
+if (c>max) {max =c;}
+
+Console.Write ("max = ");
+Console.WriteLine (max);
+
+
