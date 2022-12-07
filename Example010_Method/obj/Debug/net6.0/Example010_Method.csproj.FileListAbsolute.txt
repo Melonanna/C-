@@ -1,0 +1,15 @@
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/Example010_Method.csproj.AssemblyReference.cache
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/Example010_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/Example010_Method.AssemblyInfoInputs.cache
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/Example010_Method.AssemblyInfo.cs
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/Example010_Method.csproj.CoreCompileInputs.cache
+/Users/annasmirnova/Desktop/Examples/Example010_Method/bin/Debug/net6.0/Example010_Method
+/Users/annasmirnova/Desktop/Examples/Example010_Method/bin/Debug/net6.0/Example010_Method.deps.json
+/Users/annasmirnova/Desktop/Examples/Example010_Method/bin/Debug/net6.0/Example010_Method.runtimeconfig.json
+/Users/annasmirnova/Desktop/Examples/Example010_Method/bin/Debug/net6.0/Example010_Method.dll
+/Users/annasmirnova/Desktop/Examples/Example010_Method/bin/Debug/net6.0/Example010_Method.pdb
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/Example010_Method.dll
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/refint/Example010_Method.dll
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/Example010_Method.pdb
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/Example010_Method.genruntimeconfig.cache
+/Users/annasmirnova/Desktop/Examples/Example010_Method/obj/Debug/net6.0/ref/Example010_Method.dll
