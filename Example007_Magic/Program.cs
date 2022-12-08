@@ -15,7 +15,6 @@ Console.WriteLine("+");
 Console.SetCursorPosition(xc,yc);
 Console.WriteLine("+");
 
-
 int x=xa, y=xb;
 
 int count=0;
@@ -46,5 +45,4 @@ y=(y+yc)/2;
 Console.SetCursorPosition(x,y);
 Console.WriteLine("+");
 count++;
-
 }
