@@ -39,7 +39,7 @@ Method2(msg:"Текст сообщения");
 */
 //2.1 method
 
-void Method21(string msg, int count)
+/*void Method21(string msg, int count)
 {
 int i=0;
   while (i<count)
@@ -47,7 +47,43 @@ int i=0;
 i++;
 }
 }
-Method21("Текст сообщения",5);
+//Method21("Текст сообщения",count:5);
+Method21(count:5,msg:"новый текст сообщения");
+
+*/
+
+// 3 method
+/*
+int Method3()
+
+{
+return DateTime.Now.Year;
+}
+
+int year = Method3();
+Console.WriteLine(year);
+
+*/
+
+// 4 method
+
+string Method4(int count, string text)
+
+{
+int i =0;
+string result = String.Empty;
+ while (i<count)
+
+ {
+result=result+text;
+i++;
+
+ }
+return result;
+}
+string res=Method4(10,"asdf ");
+Console.WriteLine(res);
+
 
 
 
