@@ -76,7 +76,17 @@ else
  */
 
 
+//СЕМИНАР ПО ФУНКЦИЯМ
 
+int [] array=new int [10]; /*в массиве 10 элементов*/
+//int [] array=new int [] {1,2,3}
+
+for (int i=0;i<array.Length;i++)
+
+{
+ array[i] = new Random().Next(10);
+ Console.Write($" {array[i]} ");
+}
 
 
 
