@@ -77,9 +77,21 @@ else
 
 
 //СЕМИНАР ПО ФУНКЦИЯМ
-
+/*
 int [] array=new int [10]; /*в массиве 10 элементов*/
 //int [] array=new int [] {1,2,3}
+/*
+for (int i=0;i<array.Length;i++)
+
+{
+ array[i] = new Random().Next(10);
+ Console.Write($" {array[i]} ");
+}
+*/
+
+ //поменять переменные друг с другом
+/*
+int [] array = new int [10];
 
 for (int i=0;i<array.Length;i++)
 
@@ -87,7 +99,55 @@ for (int i=0;i<array.Length;i++)
  array[i] = new Random().Next(10);
  Console.Write($" {array[i]} ");
 }
+Console.WriteLine();
 
+int index=1;
+Console.WriteLine($"{array[index]} -- {array[array.Length - index - 1]}");
 
+int temp = array[1];
+array [1] = array [2];
+array [2] = temp;
 
- 
+*/
+/*
+int [] array = new int [5];
+
+for (int i=0;i<array.Length;i++)
+
+{
+ array[i] = new Random().Next(10);
+ Console.Write($" {array[i]} ");
+}
+Console.WriteLine();
+
+int temp = array[1];
+array [1] = array [2];
+array [2] = temp;
+
+for( int i=0; i<array.Length; i++)
+{
+ Console.Write($" {array[i]} ");
+}
+
+Console.WriteLine();
+
+ */
+
+ //  Перевернуть массив полностью
+
+ int[]array = new int [5];
+ for (int i=0; i< array.Length; i++)
+
+ {
+array [i] = new Random().Next(10);
+ }
+Print(array);
+
+ for (int i=0; i<array.Length / 2; i++)
+{
+int temp = array[i];
+array [i] = array [array.Length-i-1];
+array [array.Length-i-1] = temp;
+
+}
+Print(array);
