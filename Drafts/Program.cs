@@ -134,7 +134,7 @@ Console.WriteLine();
  */
 
  //  Перевернуть массив полностью
-
+/*
  int[]array = new int [5];
  for (int i=0; i< array.Length; i++)
 
@@ -151,3 +151,24 @@ array [array.Length-i-1] = temp;
 
 }
 Print(array);
+*/
+
+
+// массив с неизвестным числом элемонтов. Пользователь вводит числа пока не наберет ноль
+/*
+int a=1;
+/* array.length - счетчик */
+/*int [] array=new int [0];
+while (a !=0)
+{
+
+Console.Write($"Введите [{array.Length}}] элемент: ");
+int.TryParse(Console.ReadLine()!,out a);
+if (a!=0)
+array[array.length]=a;
+
+}
+
+//Динамические массивы - нет ограничений по кол-ву элеемнтов
+
+
