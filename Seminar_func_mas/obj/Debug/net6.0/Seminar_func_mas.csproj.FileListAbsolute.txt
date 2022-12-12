@@ -1,0 +1,15 @@
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/bin/Debug/net6.0/Seminar_func_mas
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/bin/Debug/net6.0/Seminar_func_mas.deps.json
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/bin/Debug/net6.0/Seminar_func_mas.runtimeconfig.json
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/bin/Debug/net6.0/Seminar_func_mas.dll
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/bin/Debug/net6.0/Seminar_func_mas.pdb
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/Seminar_func_mas.csproj.AssemblyReference.cache
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/Seminar_func_mas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/Seminar_func_mas.AssemblyInfoInputs.cache
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/Seminar_func_mas.AssemblyInfo.cs
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/Seminar_func_mas.csproj.CoreCompileInputs.cache
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/Seminar_func_mas.dll
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/refint/Seminar_func_mas.dll
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/Seminar_func_mas.pdb
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/Seminar_func_mas.genruntimeconfig.cache
+/Users/annasmirnova/Desktop/Examples/Seminar_func_mas/obj/Debug/net6.0/ref/Seminar_func_mas.dll
