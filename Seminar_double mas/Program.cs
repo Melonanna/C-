@@ -79,7 +79,7 @@ void PrintArray(int[,] arr)
 //1 4 7 2
 //5 9 2 3
 //8 4 2 4
-
+/*
 //генерация первоначального массива
 int [,]array = new int [3,4];
 for (int i=0; i<array.GetLength(0);i++)
@@ -91,7 +91,7 @@ for (int i=0; i<array.GetLength(0);i++)
   }
   Console.WriteLine();
 }
-
+Console.WriteLine();
 for (int i=0; i<array.GetLength(1);i++)
 {
   (array[0,i], array[array.GetLength(0) -1,i]) =
@@ -106,10 +106,40 @@ for (int i=0; i<array.GetLength(0);i++)
   {
   Console.Write($"{array[i,j]} ");
   }
+Console.WriteLine();
+}
+  
+*/
+
+
+//генерация первоначального массива
+int[,] array = new int [4,4];
+int[,] array2 = new int[array.GetLength(1),array.GetLength(0)];
+
+for (int i=0; i<array.GetLength(0);i++)
+{
+  for (int j=0; j<array.GetLength(1);j++)
+  {
+  array [i,j]=new Random().Next(10);
+ Console.Write($"{array[i,j]} ");
+  }
   Console.WriteLine();
 }
-
-
+for (int i=0; i<array.GetLength(0);i++)
+{
+ for (int j=0; j<array.GetLength(1);i++)
+    array2[j,i] = array[i,j];
+ }
+}
+//вывод нового массива
+for (int i=0; i<array2.GetLength(0);i++)
+{
+  for (int j=0; j<array2.GetLength(1);j++)
+  {
+  Console.Write($"{array2[j,i]} ");
+  }
+Console.WriteLine();
+}
 
 
 
