@@ -21,7 +21,7 @@ void PrintNums(int left,int right)
 
 }
 */
-
+/*
 int n;
 Console.Write($"Введите N:");
 int.TryParse(Console.ReadLine()!, out n);
@@ -39,3 +39,40 @@ PrintNums(left+1, right);
 return str;
 
 }
+*/ 
+//прога принимает на вход число/ возвращает сумму его цифр
+/*
+int n;
+Console.Write($"Введите N: ");
+int.TryParse(Console.ReadLine()!, out n);
+
+Console.Write($"{DigitSum(n)}");
+int DigitSum(int num)
+{
+  if (num/10 ==0)
+    return num;
+  return num%10 + DigitSum(num /10);
+
+*/
+
+
+int a,b;
+Console.Write($"Введите A: ");
+int.TryParse(Console.ReadLine()!, out a);
+Console.Write($"Введите B: ");
+int.TryParse(Console.ReadLine()!, out b);
+
+Console.Write($"{a}^{b} = {pow(a,b)}");
+
+int pow(int a,int b)
+{
+  if (b==0)
+  return 1;
+  if (b==1)
+  return a;
+return a*pow(a,b-1);
+}
+
+
+//функция Аккермана
+
