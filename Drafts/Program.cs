@@ -169,6 +169,23 @@ array[array.length]=a;
 
 }
 
-//Динамические массивы - нет ограничений по кол-ву элеемнтов
+Динамические массивы - нет ограничений по кол-ву элеемнтов
+*/
+/*
+string[] strings = { "hello", "world", "2", "(.v.)", "12", "\0" }; 
+var result = strings.Where(s => s.Length <= 3).ToArray(); 
+Console.WriteLine(string.Join(", ", result)); 
+Console.ReadLine();
+*/
+/*
+string[] strings = { "hello", "2", "world", ":-)" }; 
+var result = strings.Where(s => s.Length <= 3).ToArray(); 
+Console.WriteLine(string.Join(", ", result)); 
+Console.ReadLine();
 
+*/
 
+string[] strings = { "Russia", "Denmark", "Kazan", }; 
+var result = strings.Where(s => s.Length <= 3).ToArray(); 
+Console.Write(string.Join(", ", result)); 
+Console.ReadLine();
